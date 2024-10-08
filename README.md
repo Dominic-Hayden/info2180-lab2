@@ -1,2 +1,3 @@
-# info2180-lab2
-This is the lab 2 for Info2180
+# INFO2180 Lab 2
+
+This is the Lab 2 for Dominic
